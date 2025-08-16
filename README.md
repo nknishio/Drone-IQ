@@ -3,6 +3,8 @@ Repository for the Autonomous Drone project from University of California, Irvin
 
 Title: **"Integrating Deep Learning Segmentation with Parallax Geometry for UAV-Based Structure Height Estimation"**
 
+Researchers: **Arjun Maganti, Nelson Nishio, Amun Reddy, Pablo Silva**
+
 ## Code Architecture Notes
 - Not all files are required for the processing of images. Look into main.py to check which ones are necessary.
 - It is important you download all of the libraries found throughout the .py files
